@@ -1,2 +1,3 @@
-# indicator
-Driver and api for led indicator
+# indicator_driver
+
+Драйвер для ЦМД-led-индикатора
